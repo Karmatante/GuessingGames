@@ -1,4 +1,4 @@
-package se.iths.katharina.Guesser;
+package se.iths.katharina.guesser;
 
 public class ConsoleHelper {
     public static void printMenu() {

@@ -1,4 +1,4 @@
-package se.iths.katharina.Guesser;
+package se.iths.katharina.guesser;
 
 import java.util.Random;
 
